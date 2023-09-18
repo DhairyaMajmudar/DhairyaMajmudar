@@ -1,5 +1,7 @@
 # 💫 About Me:
-Dhairya Majmudar is an undergrad at IIIT Kota who is an enthusiast for technology. His tech Skills include Web Development Technologies like HTML5, CSS3, and JavaScript; he also has knowledge of Frameworks like TailWind CSS and React. Along with that he also has good command of programming languages like C and Python.<br><br>Being a GSSoC’23 contributor he also has a grip on version control like Git and GitHub and contributed to projects which includes GameZone, GameSphere, Moksh, Dev Geeks.<br><br>Also he was invited to the TechFest 2016 at IIT Bombay as a junior participant to showcase a solar energy-based model created by him with a focus on promoting sustainable development.
+Dhairya Majmudar is a passionate and motivated web developer, currently leading the web development team at Developer Student Clubs (DSC IIIT KOTA), a Google-supported community of students who learn and build solutions using Google technologies. He is also pursuing a Bachelor of Technology degree in Electronics and Communications Engineering at Indian Institute of Information Technology Kota.
+
+He has a strong command of web development technologies and frameworks such as HTML5, CSS3, JavaScript, TailWind CSS, React Js, and programming languages such as C++ and Python. He is also proficient in version control using Git and GitHub and has contributed to multiple open source projects as a GSSoC’23 contributor, such as GameZone, GameSphere, Moksh, Dev Geeks, and Opentek. Additionally, he has a keen interest in sustainable development and renewable energy and was invited to showcase a solar energy-based model at the TechFest 2016 at IIT Bombay as a junior participant.
 
 
 ## 🌐 Socials:
