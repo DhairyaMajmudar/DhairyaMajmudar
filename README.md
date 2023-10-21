@@ -1,12 +1,29 @@
 # 💫 About Me:
 Dhairya Majmudar is a passionate and motivated web developer, currently leading the web development team at Developer Student Clubs (DSC IIIT KOTA), a Google-supported community of students who learn and build solutions using Google technologies. He is also pursuing a Bachelor of Technology degree in Electronics and Communications Engineering at Indian Institute of Information Technology Kota.
 
-He has a strong command of web development technologies and frameworks such as HTML5, CSS3, JavaScript, TailWind CSS, React Js, and programming languages such as C++ and Python. He is also proficient in version control using Git and GitHub and has contributed to multiple open source projects as a GSSoC’23 contributor, such as GameZone, GameSphere, Moksh, Dev Geeks, and Opentek. Additionally, he has a keen interest in sustainable development and renewable energy and was invited to showcase a solar energy-based model at the TechFest 2016 at IIT Bombay as a junior participant.
+He has knowledge of Frontend technologies like Javascript, ReactJs, Tailwind CSS, MUI and Backend Teachnologies which includes NodeJs and ExpressJs
+
+Currently Exploring the technologies of T3 stack which includes TypeScript, Tailwind CSS and NextJs
+
+Along with these open source programs like GSSoC'23 and Hacktoberfest'23 is also completed by him. 
+# ☎️ Connect with me:
+<a href="https://www.linkedin.com/in/dhairya-majmudar/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://dhaiyra-majmudar.netlify.app/">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://twitter.com/majmudar777">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itz_dhairya_707/?igshid=ZDdkNTZiNTM%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhairya-majmudar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/majmudar777) 
+[![](https://visitcount.itsvg.in/api?id=DhairyaMajmudar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+---
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
@@ -17,16 +34,25 @@ He has a strong command of web development technologies and frameworks such as H
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DhairyaMajmudar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/majmudar777)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DhairyaMajmudar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+# 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamajmudar&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyamajmudar&theme=dark)
+[](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyamajmudar&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhairyaMajmudar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# ⚙️ Working Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhairyamajmudar&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+----
+
+# 🏆 Holopin Badges
+[![An image of @dhairyamajmudar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyamajmudar)](https://holopin.io/@dhairyamajmudar)
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
