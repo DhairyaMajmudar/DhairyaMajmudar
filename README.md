@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dhairya Majmudar is a passionate and motivated web developer, currently leading the web development team at Developer Student Clubs (DSC IIIT KOTA), a Google-supported community of students who learn and build solutions using Google technologies. He is also pursuing a Bachelor of Technology degree in Electronics and Communications Engineering at Indian Institute of Information Technology Kota.
+Dhairya Majmudar is a passionate and motivated web developer, currently leading the web development team at Google Developer Student Clubs (GDSC IIIT KOTA), a Google-supported community of students who learn and build solutions using Google technologies. He is also pursuing a Bachelor of Technology degree in Electronics and Communications Engineering at Indian Institute of Information Technology Kota.
 
 He has knowledge of Frontend technologies like Javascript, ReactJs, Tailwind CSS, MUI and Backend Teachnologies which includes NodeJs and ExpressJs
 
