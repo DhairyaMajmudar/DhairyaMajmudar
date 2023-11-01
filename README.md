@@ -3,9 +3,9 @@ Dhairya Majmudar is a passionate and motivated web developer, currently leading 
 
 He has knowledge of Frontend technologies like Javascript, ReactJs, Tailwind CSS, MUI and Backend Teachnologies which includes NodeJs and ExpressJs
 
-Currently Exploring the technologies of T3 stack which includes TypeScript, Tailwind CSS and NextJs
+Currently Exploring the technologies of T3 stack which includes TypeScript, Tailwind CSS, and NextJs
 
-Along with these open source programs like GSSoC'23 and Hacktoberfest'23 is also completed by him. 
+Along with these open-source programs like GSSoC'23 and Hacktoberfest'23 are also completed by him. 
 # ☎️ Connect with me:
 <a href="https://www.linkedin.com/in/dhairya-majmudar/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -44,7 +44,6 @@ Along with these open source programs like GSSoC'23 and Hacktoberfest'23 is also
 # 🏆 Holopin Badges
 [![An image of @dhairyamajmudar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyamajmudar)](https://holopin.io/@dhairyamajmudar)
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+# 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
