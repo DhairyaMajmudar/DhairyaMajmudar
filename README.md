@@ -42,11 +42,6 @@ Along with these open-source programs like GSSoC'23 and Hacktoberfest'23 are als
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamajmudar&theme=algolia" width="100%" /> </br></br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyamajmudar&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyamajmudar&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhairyamajmudar&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-</br></br>
  </a>
 
 ![Dhairya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dhairyamajmudar&theme=algolia&card_width=1000) </br></br>
@@ -54,7 +49,7 @@ Along with these open-source programs like GSSoC'23 and Hacktoberfest'23 are als
 
 </div>
 
-<br/><br/>
+<br/>
 
 <h1 align="center"> 🏆 Holopin Badges</h1>
 
