@@ -1,6 +1,6 @@
 <h1 align="center" style=""> 👋 Hello, I'm Dhairya Majmudar! </h1>
 
-Here's a glimpse of my journey and expertise:
+<h3></h3> Here's a glimpse of my journey and expertise:
 
 - **Google DSC Web Dev Lead**: I take pride in leading the web development initiatives within GDSC IIIT KOTA, fostering a collaborative environment for learning and innovation.
 
@@ -19,7 +19,7 @@ Here's a glimpse of my journey and expertise:
 - Backend: NodeJs, ExpressJs
 - Exploring the T3 stack: TypeScript, Tailwind CSS, NextJs
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhairya-majmudar.netlify.app/). Let's build amazing things together! 🚀
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhaiyra-majmudar.netlify.app/). Let's build amazing things together! 🚀 </h3>
 
 
 <br/><br/>
