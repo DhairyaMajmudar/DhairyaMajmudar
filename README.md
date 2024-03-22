@@ -1,11 +1,27 @@
-<h1 align="center" style=""> 💫 About Me </h1>
-Dhairya Majmudar is a passionate and motivated web developer, currently leading the web development team at Google Developer Student Clubs (GDSC IIIT KOTA), a Google-supported community of students who learn and build solutions using Google technologies. He is also pursuing a Bachelor of Technology degree in Electronics and Communications Engineering at Indian Institute of Information Technology Kota.
+<h1 align="center" style=""> 👋 Hello, I'm Dhairya Majmudar! </h1>
 
-He has knowledge of Frontend technologies like Javascript, ReactJs, Tailwind CSS, MUI and Backend Teachnologies which includes NodeJs and ExpressJs
+Here's a glimpse of my journey and expertise:
 
-Currently Exploring the technologies of T3 stack which includes TypeScript, Tailwind CSS, and NextJs
+- **Google DSC Web Dev Lead**: I take pride in leading the web development initiatives within GDSC IIIT KOTA, fostering a collaborative environment for learning and innovation.
 
-Along with these open-source programs like GSSoC'23 and Hacktoberfest'23 are also completed by him. 
+- **Season of KDE (SoK'24)**: As a participant in SoK'24, I contributed to the **KDE** community's Cantor Project under the mentorship of Alexander Semeke, working on that project helped enhance my skills in Gitlab, Python, and KDE ecosystem.
+
+- **Collaborator at Oppia**: Part of **Oppia Foundation** LAcE team responsible for removing critical bugs and improving users experience, took part in regression testing and critical bug removal from production.
+
+- **Technical Team Lead - IIITians Network**: Within the IIITians Network, I serve as the technical team lead.
+
+- **Web Team Member - IIIT Kota**: I'm part of the web development team at IIIT Kota, where we create and maintain the institute's official website.
+
+- **IIIT Kota'26**: I'm a proud member of the IIIT Kota Class of 2026, pursuing my passion for technology and making a positive impact.
+
+**Tech Stack**:
+- Frontend: JavaScript, ReactJs, Tailwind CSS, MUI
+- Backend: NodeJs, ExpressJs
+- Exploring the T3 stack: TypeScript, Tailwind CSS, NextJs
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhairya-majmudar.netlify.app/). Let's build amazing things together! 🚀
+
+
 <br/><br/>
 
 
