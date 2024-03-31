@@ -21,7 +21,7 @@
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhaiyra-majmudar.netlify.app/). Let's build amazing things together! 🚀 </h3>
 
-My Blogs can be explored here: [Dhairya's Blog](dhairya-blog.vercel.app)
+My Blogs can be explored here: [Dhairya's Blog](https://dhairya-blog.vercel.app)
 
 
 <br/><br/>
