@@ -2,15 +2,15 @@
 
 <h3></h3> Here's a glimpse of my journey and expertise:
 
-- **Google DSC Web Dev Lead**: I take pride in leading the web development initiatives within GDSC IIIT KOTA, fostering a collaborative environment for learning and innovation.
+- **Google DSC Web Dev Lead**: Web Development Lead in GDSC IIIT Kota a Google-supported community. Where I collaborated with several developers to improve the tech culture in my institute. Guided and helped several JRs. to kickstart their journey. 
 
-- **Season of KDE (SoK'24)**: As a participant in SoK'24, I contributed to the **KDE** community's Cantor Project under the mentorship of Alexander Semeke, working on that project helped enhance my skills in Gitlab, Python, and KDE ecosystem.
+- **Season of KDE (SoK'24)**: As a mentee in SoK'24, I contributed to the **KDE** community's Cantor Project under the mentorship of Alexander Semeke, working on that project helped enhance my skills in Gitlab, Python, and several mathematical programming languages.
 
-- **Collaborator at Oppia**: Part of **Oppia Foundation** LAcE team responsible for removing critical bugs and improving users experience, took part in regression testing and critical bug removal from production.
+- **Collaborator at Oppia**:  As a collaborator at Oppia Foundation, I was part of the LAcE team that was responsible of fixing critical bugs and making the user experience better. I helped with regression testing and removing critical bugs from production.
 
 - **Technical Team Lead - IIITians Network**: Within the IIITians Network, I serve as the technical team lead.
 
-- **Web Team Member - IIIT Kota**: I'm part of the web development team at IIIT Kota, where we create and maintain the institute's official website.
+- **Web Team Member - IIIT Kota**: I'm part of the web development team at IIIT Kota, where we maintain the institute's official website.
 
 - **IIIT Kota'26**: I'm a proud member of the IIIT Kota Class of 2026, pursuing my passion for technology and making a positive impact.
 
@@ -20,6 +20,8 @@
 - Exploring the T3 stack: TypeScript, Tailwind CSS, NextJs
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhaiyra-majmudar.netlify.app/). Let's build amazing things together! 🚀 </h3>
+
+My Blogs can be explored here: [Dhairya's Blog](dhairya-blog.vercel.app/)
 
 
 <br/><br/>
