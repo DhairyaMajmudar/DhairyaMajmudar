@@ -1,27 +1,27 @@
 <h1 align="center" style=""> 👋 Hello, I'm Dhairya Majmudar! </h1>
 
-<h3></h3> Here's a glimpse of my journey and expertise:
+<h3>Here's a glimpse of my journey and expertise:</h3> 
+
+- **Google Season of Docs (GSoD'24)**: Contributing to JSON Schema org. under GSoD'24 mentorship as support software enginner.
+
+- **Season of KDE (SoK'24)**: As a mentee in SoK'24, I contributed to the **KDE** community's Cantor Project under the mentorship of [Alexander Semeke](https://www.linkedin.com/in/alexander-semke-b65889a4/), working on that project helped me enhance my skills in Gitlab, Python, and several mathematical programming languages.
 
 - **Google DSC Web Dev Lead**: Web Development Lead in GDSC IIIT Kota a Google-supported community. Where I collaborated with several developers to improve the tech culture in my institute. Guided and helped several JRs. to kickstart their journey. 
 
-- **Season of KDE (SoK'24)**: As a mentee in SoK'24, I contributed to the **KDE** community's Cantor Project under the mentorship of Alexander Semeke, working on that project helped enhance my skills in Gitlab, Python, and several mathematical programming languages.
+- **Collaborator at Oppia**:  As a collaborator at Oppia Foundation, I was part of the LAcE team responsible for fixing critical bugs and improving the user experience. I helped with regression testing and removing critical bugs from production.
 
-- **Collaborator at Oppia**:  As a collaborator at Oppia Foundation, I was part of the LAcE team that was responsible of fixing critical bugs and making the user experience better. I helped with regression testing and removing critical bugs from production.
-
-- **Technical Team Lead - IIITians Network**: Within the IIITians Network, I serve as the technical team lead.
+- **Technical Team Lead - IIITians Network**: Within the IIITians Network, I served as the technical team lead making the community of IIITians technically stronger.
 
 - **Web Team Member - IIIT Kota**: I'm part of the web development team at IIIT Kota, where we maintain the institute's official website.
 
-- **IIIT Kota'26**: I'm a proud member of the IIIT Kota Class of 2026, pursuing my passion for technology and making a positive impact.
-
 **Tech Stack**:
-- Frontend: JavaScript, ReactJs, Tailwind CSS, MUI
+- Frontend: JavaScript, ReactJs, Tailwind CSS, MUI, TypeScript, NextJS
 - Backend: NodeJs, ExpressJs
-- Exploring the T3 stack: TypeScript, Tailwind CSS, NextJs
+- Currently learning: Go lang, Cloud Native tools
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhaiyra-majmudar.netlify.app/). Let's build amazing things together! 🚀 </h3>
 
-My Blogs can be explored here: [Dhairya's Blog](https://dhairya-blog.vercel.app)
+### My Blogs can be explored here: [Dhairya's Blog](https://dhairya-blog.vercel.app)
 
 
 <br/><br/>
