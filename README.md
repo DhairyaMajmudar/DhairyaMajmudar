@@ -67,16 +67,20 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 </p > -->
 
 <!-- </div> -->
+
 <!-- </div> -->
 
----
+<!-- ## ✍🏻 Read My Blogs Here
+
+--- -->
 
 ## 🤝 Connect with me
+
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/majmudar777)
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dhairya-majmudar)
 
 ---
 
-<h1> 🏆 Holopin Badges</h1>
+## 🏆 Holopin Badges
 
 [![An image of @dhairyamajmudar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyamajmudar)](https://holopin.io/@dhairyamajmudar)
