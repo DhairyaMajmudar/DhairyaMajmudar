@@ -79,7 +79,6 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/majmudar777)
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dhairya-majmudar)
 
----
 
 ## 🏆 Holopin Badges
 
