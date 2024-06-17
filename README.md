@@ -15,12 +15,11 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 ---
 
-
 ## 💼 Work Experience
 
 - ### Google Season of Docs’24, JSON Schema
 
-- ### Seasson of KDE'24, KDE 
+- ### Seasson of KDE'24, KDE
 
 - ### Collaborator, Oppia
 
@@ -28,9 +27,33 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 - ### Web Team Member, IIIT Kota
 
+---
+
+## ⚒️ Languages and tools that I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,go,postman,vue" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,next,tailwind,vite" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions,vercel,vscode" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,md,debian,cloudflare,bash" />
+  </a>
+</p>
+---
 
 <!-- --------------------EDIT--------------------------- -->
-
 
 **Tech Stack**:
 
