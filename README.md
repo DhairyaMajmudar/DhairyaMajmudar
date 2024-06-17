@@ -57,6 +57,19 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 <!-- <div> -->
 
+## 🏆Achievements
+
+- ### **Winner of Gitlab [April Hackathon'24](https://forum.gitlab.com/t/announcing-the-april-2024-hackathon-results/105521)**
+
+  - Gitlab conducts a quarterly Hackathon to introduce new contributors to open-source software and help them start their journey with Gitlab project. I was a winner of the April Hackathon'24.
+  - Contributed code in Gitlab internals built on the top of Vue.js and Ruby on Rails
+  - Revamped members section of the Gitlab org. page.
+
+- ### Google DSA Web Dev Lead'23
+  - I was chosen as GDSC Web Dev Lead for the year 2023-24 by GDSC IIIT Kota
+  - Collaboratively worked in a team to take institute to tier 1 of global GCP event
+  - Conducted session and interactions to help newbies to kickstart thier development joruney.
+
 ## ⚒️ Languages and tools that I use
 
 <p align="center">
@@ -97,17 +110,6 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 <!-- ## ✍🏻 Read My Blogs Here
 
 --- -->
-
-## 🏆Achievements
-
-- ### **Winner of Gitlab [April Hackathon'24](https://forum.gitlab.com/t/announcing-the-april-2024-hackathon-results/105521)**
-
-  - Gitlab conducts a quarterly Hackathon to introduce new contributors to open-source software and help them start their journey with Gitlab project. I was a winner of the April Hackathon'24.
-
-- ### Google DSA Web Dev Lead'23
-  - I was chosen as GDSC Web Dev Lead for the year 2023-24 by GDSC IIIT Kota
-  - Collaboratively worked in a team to take institute to tier 1 of global GCP event
-  - Conducted session and interactions to help newbies to kickstart thier development joruney.
 
 ## 🤝 Connect with me
 
