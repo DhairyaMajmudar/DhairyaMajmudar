@@ -29,9 +29,29 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 - ### Season of KDE'24, KDE
 
+  - Collaborated with KDE community mentors to improve Cantor CAS project of KDE, this project is related to visualization of several mathematical systems.
+
+  - Added support for R, Maxima and Qalculate systems in the cantor and KDE store
+
+  - Utilised QT help framework and leveraged it with python automation by scripting.
+
+  - [SoK'24 Final Report](https://community.kde.org/SoK/2024/StatusReport/Dhairya_Majmudar)
+
+
+
 - ### Collaborator, Oppia
 
-- ### Web Team Member, IIIT Kota
+  - Part of Oppia's LAcE Quality control team where I collaborated with Google Developers from Russia and S.A to remove several frontend related bugs from the production software.
+
+  - Wrote test cases for Anuglar frontend utilising Jasmine framework. 
+
+  - Took part in regression testing and helped new  devlopers in onboarding process in the project. 
+
+- ### Webmaster, IIIT Kota
+
+  - Webmaster in IIIT Kota'a web team responsilbe for handling its official websites.
+
+  - Improved codes of IIIT Kota's website and TnP portal. 
 
 ---
 
