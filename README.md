@@ -51,15 +51,10 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
     <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,md,debian,cloudflare,bash" />
   </a>
 </p>
+
 ---
 
 <!-- --------------------EDIT--------------------------- -->
-
-**Tech Stack**:
-
-- Frontend: JavaScript, ReactJs, Tailwind CSS, MUI, TypeScript, NextJS
-- Backend: NodeJs, ExpressJs
-- Currently learning: Go lang, Cloud Native tools
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhaiyra-majmudar.netlify.app/). Let's build amazing things together! 🚀 </h3>
 
