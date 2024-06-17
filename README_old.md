@@ -1,15 +1,3 @@
-- **Google Season of Docs (GSoD'24)**: Contributing to JSON Schema org. under GSoD'24 mentorship as support software enginner.
-
-- **Season of KDE (SoK'24)**: As a mentee in SoK'24, I contributed to the **KDE** community's Cantor Project under the mentorship of [Alexander Semeke](https://www.linkedin.com/in/alexander-semke-b65889a4/), working on that project helped me enhance my skills in Gitlab, Python, and several mathematical programming languages.
-
-- **Google DSC Web Dev Lead**: Web Development Lead in GDSC IIIT Kota a Google-supported community. Where I collaborated with several developers to improve the tech culture in my institute. Guided and helped several JRs. to kickstart their journey.
-
-- **Collaborator at Oppia**: As a collaborator at Oppia Foundation, I was part of the LAcE team responsible for fixing critical bugs and improving the user experience. I helped with regression testing and removing critical bugs from production.
-
-- **Technical Team Lead - IIITians Network**: Within the IIITians Network, I served as the technical team lead making the community of IIITians technically stronger.
-
-- **Web Team Member - IIIT Kota**: I'm part of the web development team at IIIT Kota, where we maintain the institute's official website.
-
   <!-- ------------------------------------ -->
 
   <h1 align="center"> 📊 GitHub Stats</h1>

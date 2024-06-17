@@ -37,21 +37,19 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
   - [SoK'24 Final Report](https://community.kde.org/SoK/2024/StatusReport/Dhairya_Majmudar)
 
-
-
 - ### Collaborator, Oppia
 
   - Part of Oppia's LAcE Quality control team where I collaborated with Google Developers from Russia and S.A to remove several frontend related bugs from the production software.
 
-  - Wrote test cases for Anuglar frontend utilising Jasmine framework. 
+  - Wrote test cases for Anuglar frontend utilising Jasmine framework.
 
-  - Took part in regression testing and helped new  devlopers in onboarding process in the project. 
+  - Took part in regression testing and helped new devlopers in onboarding process in the project.
 
 - ### Webmaster, IIIT Kota
 
   - Webmaster in IIIT Kota'a web team responsilbe for handling its official websites.
 
-  - Improved codes of IIIT Kota's website and TnP portal. 
+  - Improved codes of IIIT Kota's website and TnP portal.
 
 ---
 
@@ -100,11 +98,21 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 --- -->
 
+## 🏆Achievements
+
+- ### **Winner of Gitlab [April Hackathon'24](https://forum.gitlab.com/t/announcing-the-april-2024-hackathon-results/105521)**
+
+  - Gitlab conducts a quarterly Hackathon to introduce new contributors to open-source software and help them start their journey with Gitlab project. I was a winner of the April Hackathon'24.
+
+- ### Google DSA Web Dev Lead'23
+  - I was chosen as GDSC Web Dev Lead for the year 2023-24 by GDSC IIIT Kota
+  - Collaboratively worked in a team to take institute to tier 1 of global GCP event
+  - Conducted session and interactions to help newbies to kickstart thier development joruney.
+
 ## 🤝 Connect with me
 
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/majmudar777)
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dhairya-majmudar)
-
 
 ## 🏆 Holopin Badges
 
