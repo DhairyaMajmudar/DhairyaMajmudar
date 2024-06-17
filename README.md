@@ -2,6 +2,19 @@
 
 ### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Dhairya Majmudar
 
+Navigating the tech world. I'm a technology enthusiast with a deep passion for solving real world challenges. My idea of fun? Tackling scary bugs and diving into code, unraveling its mysteries.
+
+Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I believe in the power of collaboration and I'm open to exciting projects. You can catch me on Twitter [@majmudar777](https://twitter.com/majmudar777) and for collaboration, reach out to me at majmudar777@gmail.com. Let's build something amazing together!
+
+---
+
+- 👨🏻‍💻 Pronouns: He/Him
+- 🔭 Currently exploring Backend space.
+- ☕ Hobbies: Contributing to Open Source, Making Side projects, Like to read books and watch movies.
+- ⚡ Fun fact: The only funny thing about my life is my situation
+
+---
+
 <!-- --------------------EDIT--------------------------- -->
 
 <h3>Here's a glimpse of my journey and expertise:</h3>
