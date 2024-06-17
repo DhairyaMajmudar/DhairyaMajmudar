@@ -69,33 +69,14 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 <!-- </div> -->
 <!-- </div> -->
 
+---
 
 ## 🤝 Connect with me
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/majmudar777)
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dhairya-majmudar)
+
 ---
 
-<!-- --------------------EDIT--------------------------- -->
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-majmudar) or explore my personal portfolio [here](https://dhaiyra-majmudar.netlify.app/). Let's build amazing things together! 🚀 </h3>
-
-### My Blogs can be explored here: [Dhairya's Blog](https://dhairya-blog.vercel.app)
-
-<h1 align="center">  Profile Stats</h1>
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamajmudar&theme=algolia" width="100%" /> </br></br>
- </a>
-
-![Dhairya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dhairyamajmudar&theme=algolia&card_width=1000) </br></br>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=dhairyamajmudar&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)</br>
-
-</div>
-
-<br/>
-
-<h1 align="center"> 🏆 Holopin Badges</h1>
+<h1> 🏆 Holopin Badges</h1>
 
 [![An image of @dhairyamajmudar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyamajmudar)](https://holopin.io/@dhairyamajmudar)
