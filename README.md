@@ -29,6 +29,10 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 ---
 
+<!-- <div style="display: flex;flex-direction:row"> -->
+
+<!-- <div> -->
+
 ## ⚒️ Languages and tools that I use
 
 <p align="center">
@@ -51,7 +55,24 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
     <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,md,debian,cloudflare,bash" />
   </a>
 </p>
+<!-- </div> -->
 
+<!-- <div> -->
+
+<!-- ## 📊 Profile Stats -->
+
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyamajmudar&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Dhairya's Github Stats"/>
+<br/>
+</p > -->
+
+<!-- </div> -->
+<!-- </div> -->
+
+
+## 🤝 Connect with me
+[<img height="35" width="35" src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/majmudar777)
+[<img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dhairya-majmudar)
 ---
 
 <!-- --------------------EDIT--------------------------- -->
@@ -60,16 +81,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-m
 
 ### My Blogs can be explored here: [Dhairya's Blog](https://dhairya-blog.vercel.app)
 
-<br/><br/>
+<h1 align="center">  Profile Stats</h1>
 
-GSoD'24 @json-schema-org | SoK'24 @KDE | Google DSC Web Dev Lead | Collaborator @oppia | Web Team - IIIT Kota | IIIT Kota'26
-
-<h1 align="center"> 📊 GitHub Stats</h1>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyamajmudar&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Dhairya's Github Stats"/>
-<br/>
-</p >
 <br>
 
 <div align="center">
