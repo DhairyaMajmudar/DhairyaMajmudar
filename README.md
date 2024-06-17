@@ -19,6 +19,14 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 - ### Google Season of Docs’24, JSON Schema
 
+  - Support software enginner under GSoD'24 mentorship in JSON Schema org.
+
+  - Collabrated with technical writers to implement features improving SEO and accessibility of the website.
+
+  - Dockerised website built on the top of Next.js and Typescript to ease the development setup, worked in releasing the latest version of the website.
+
+  - Implemeted several minor and major features and removed bugs from the website prior GSoD.
+
 - ### Season of KDE'24, KDE
 
 - ### Collaborator, Oppia
