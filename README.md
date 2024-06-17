@@ -19,11 +19,9 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
 
 - ### Google Season of Docs’24, JSON Schema
 
-- ### Seasson of KDE'24, KDE
+- ### Season of KDE'24, KDE
 
 - ### Collaborator, Oppia
-
-- ### Technical Team Lead, IIITians Network
 
 - ### Web Team Member, IIIT Kota
 
