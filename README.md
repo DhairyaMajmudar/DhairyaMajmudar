@@ -65,10 +65,13 @@ Beyond the screen, I'm a gaming enthusiast, and a friendly conversationalist. I 
   - Contributed code in Gitlab internals built on the top of Vue.js and Ruby on Rails
   - Revamped members section of the Gitlab org. page.
 
-- ### Google DSA Web Dev Lead'23
+- ### Google DSC Web Dev Lead'23
   - I was chosen as GDSC Web Dev Lead for the year 2023-24 by GDSC IIIT Kota
   - Collaboratively worked in a team to take institute to tier 1 of global GCP event
   - Conducted session and interactions to help newbies to kickstart thier development joruney.
+
+- ### Tech Lead - IIITians Network
+  - Managed team of developers from several IIITs to make IIITians Network Community technically stronger.
 
 ## ⚒️ Languages and tools that I use
 
