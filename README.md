@@ -1,6 +1,7 @@
 <img src="https://github.com/DhairyaMajmudar/DhairyaMajmudar/blob/main/assets/banner.png" />
-
+<!--
 ### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Dhairya Majmudar
+
 
 Navigating the tech world. I'm a technology enthusiast with a deep passion for solving real-world challenges. My idea of fun? Tackling scary bugs and diving into code, unraveling its mysteries.
 
@@ -14,6 +15,7 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
 - ⚡ Fun fact: The only funny thing about my life is my situation
 
 ---
+<!--
 
 ## 💼 Work Experience
 
@@ -56,6 +58,7 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
 <!-- <div style="display: flex;flex-direction:row"> -->
 
 <!-- <div> -->
+<!--
 
 ## 🏆Achievements
 
@@ -76,6 +79,7 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
 - ### Junior Participant - IIT Bombay Techfest
   - Selected among top 5 students from district level schools to take part in IIT B Techfest 2016.
   - Created a solar energy based three-in-one project that included a Mobile Charger, a Mini Fan, and a Mini Centrifuge. 
+<!--
 
 ## ⚒️ Languages and tools that I use
 
@@ -117,6 +121,7 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
 <!-- ## ✍🏻 Read My Blogs Here
 
 --- -->
+<!--
 
 ## 🤝 Connect with me
 
@@ -124,5 +129,5 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dhairya-majmudar)
 
 ## 🏆 Holopin Badges
-
 [![An image of @dhairyamajmudar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyamajmudar)](https://holopin.io/@dhairyamajmudar)
+--- -->
